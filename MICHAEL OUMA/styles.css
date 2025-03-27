@@ -1,0 +1,41 @@
+table {
+  width: 70%;
+  border-collapse: collapse;
+  padding: 20px;
+}
+th,
+td {
+  border: 2px solid black;
+  padding: 4px;
+  text-align: center;
+}
+th {
+  background-color: transparent;
+  padding: 20px;
+}
+
+td {
+  padding: 4px;
+}
+
+h1 {
+  text-align: center;
+  font-size: large;
+}
+
+.vertical-text {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  margin-bottom: 30rem;
+  font-size: x-large;
+}
+
+.bg-color {
+    background-color: rgb(178, 173, 172);;
+}
+
+.foot {
+  font-size: large;
+  text-indent: 40px;
+  
+}
