@@ -5,9 +5,10 @@ This project involved developing a web-based representation of an academic timet
 **Simple Project Description:**
 
 A web-based academic timetable for Year 7-11, demonstrating HTML/CSS and accessibility skills.
+ 
+ ![screenshot](timetablepreview.png)
 
 **File Structure:**
-
 
 ├── index.html       # Main HTML file  
 ├── style.css        # CSS stylesheet  
